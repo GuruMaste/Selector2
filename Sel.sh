@@ -16,7 +16,6 @@ echo "|      User -God Mod I need VPS Key                                |"
 echo "|                                                                  |"
 echo "|                                                                  |"
 echo "+------------------------------------------------------------------+"
-echo -e "| Telegram Account : ${GREEN}@shineko6 ${NC}|Telegram Account : ${RED} 09964905844 ${NC} |"
 echo "+------------------------------------------------------------------+"
 echo ""
 
